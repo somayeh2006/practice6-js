@@ -1,5 +1,6 @@
 (practice 1)
 
+
 Score Analysis with Array Methods
 A simple JavaScript practice that works with numeric scores.
 What it does
@@ -10,6 +11,7 @@ Calculates the average score
 Goal Practice filter, reduce, Math.round, and basic calculations.
 
 (practice 2)
+
 
 Exam Evaluation Logic
 A JavaScript exercise for evaluating quiz answers.
